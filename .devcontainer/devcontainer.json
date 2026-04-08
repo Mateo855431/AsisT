@@ -1,6 +1,6 @@
 {
   "name": "Javascript DevContainer",
-  "image": "ghcr.io/devcontainers/templates/typescript-node:latest",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
   "customizations": {
     "vscode": {
       "extensions": [
